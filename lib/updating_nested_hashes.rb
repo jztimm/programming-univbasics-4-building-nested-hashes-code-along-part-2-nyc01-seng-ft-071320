@@ -63,7 +63,7 @@ def add_characters
    # Code your solution here:
 
   if epic_tragedy[additional_characters:]
-  epic_tragedy[additional_characters:] = additional_characters: => {[name: "Prince Escalus", name: "Apothecary"]}]  
+  epic_tragedy[additional_characters:] = additional_characters: => {[name: "Prince Escalus", name: "Apothecary"]}  
 
 
 
