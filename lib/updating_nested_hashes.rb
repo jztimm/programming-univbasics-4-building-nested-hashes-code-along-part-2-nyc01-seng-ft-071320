@@ -63,8 +63,8 @@ def add_characters
    # Code your solution here:
 
 epic_tragedy[additional_characters:] = [
-    {prince = name: "Prince Escalus"},
-    {apothecary = name: "Apothecary"}
+    {name: "Prince Escalus"},
+    {name: "Apothecary"}
 ]
 
 
